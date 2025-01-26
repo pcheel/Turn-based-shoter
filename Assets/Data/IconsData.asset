@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bcd2a91f124845419e0060358bffdc9, type: 3}
+  m_Name: IconsData
+  m_EditorClassIdentifier: 
+  iconsData:
+  - itemID: 
+    icon: {fileID: -5905358785927170718, guid: ade71fbf8ac72d743904922817abc960, type: 3}
+  - itemID: Bullets
+    icon: {fileID: 8848993070067138329, guid: 6d0e27aa34dd8324b9a0949751e45283, type: 3}
